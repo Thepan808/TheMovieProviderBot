@@ -21,10 +21,7 @@ class script(object):
     
 𝗪𝗲 𝗵𝗮𝘃𝗲 𝗱𝗶𝘃𝗶𝗱𝗲𝗱 𝗯𝗼𝘁 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗳𝗼𝗿 𝗴𝗿𝗼𝘂𝗽 𝗼𝘄𝗻𝗲𝗿𝘀 𝗮𝗻𝗱 𝗯𝗼𝘁 𝘂𝘀𝗲𝗿𝘀.</b>"""
 
-    ABOUT_TXT = """<b>★ 𝗦𝗲𝗿𝘃𝗲𝗿: <a href=https://www.heroku.com>𝗛𝗲𝗿𝗼𝗸𝘂!</a>
-★ 𝗟𝗶𝗯𝗿𝗮𝗿𝘆: <a href=https://pyrogram.org>𝗣𝘆𝗿𝗼𝗴𝗿𝗮𝗺!</a>
-★ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: <a href=https://www.mongodb.com>𝗠𝗼𝗻𝗴𝗼𝗗𝗕!</a>
-★ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: <a href=https://www.python.org>𝗣𝘆𝘁𝗵𝗼𝗻!</a></b>"""
+    ABOUT_TXT = """<b>‣ 𝗠𝘆 𝗻𝗮𝗺𝗲 : {}\n‣ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : <a href='https://t.meVenomStoneNetwork'>Venom Stone ❤️‍🔥</a>\n‣ 𝗟𝗶𝗯𝗿𝗮𝗿𝘆 : ᴘʏʀᴏɢʀᴀᴍ\n‣ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 : ᴘʏᴛʜᴏɴ\n‣ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 : ᴍᴏɴɢᴏ ᴅʙ\n‣ 𝗛𝗼𝘀𝘁𝗲𝗱 𝗼𝗻 : ʜᴇʀᴏᴋᴜ\n‣ 𝗕𝘂𝗶𝗹𝗱 𝘀𝘁𝗮𝘁𝘂𝘀 : ᴠ4.2 [sᴛᴀʙʟᴇ]</b>"""
     
     CHANNELS = """
 <b>⚡𝗢𝘂𝗿 𝗚𝗿𝗼𝘂𝗽𝘀 & 𝗖𝗵𝗮𝗻𝗻𝗲𝗹𝘀⚡
